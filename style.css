@@ -927,8 +927,12 @@ body.light-theme{
         padding: 1rem 1.5rem;
     }
 
+    .button{
+        font-size: 12px;
+    }
     .home__buttons{
         flex-direction: column;
+        margin: -13px;
     }
     .home__handel{
         width: 150px;
