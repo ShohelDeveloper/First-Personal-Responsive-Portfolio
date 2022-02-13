@@ -928,10 +928,9 @@ body.light-theme{
     }
 
     .button{
-        font-size: 12px;
+        font-size: 9px;
     }
     .home__buttons{
-        flex-direction: column;
         margin: -13px;
     }
     .home__handel{
